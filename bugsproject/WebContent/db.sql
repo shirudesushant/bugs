@@ -1,0 +1,7 @@
+DROP TABLE IF EXISTS bugs;
+CREATE TABLE bugs(
+id VARCHAR(10) ,
+name VARCHAR(10) ,
+assigned VARCHAR(10) ,
+status VARCHAR(10) 
+);
